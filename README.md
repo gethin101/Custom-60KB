@@ -7,16 +7,13 @@ Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/
 
 My spacebar, left shift, right shift, enter and backspace all need MX stabilizers as they are all above 2u. This means I need 4x 2u stabilizers and 1x 6.25u stabilizer that I will solder onto the PCB
 
-
-Spacebar -	6.25u  (6.25u PCB stabilizer)
-
-Left Shift -	2.25u	(2u PCB stabilizer)
-
-Right Shift -	2.75u	(2u PCB stabilizer)
-
-Enter	- 2.25u	(2u PCB stabilizer)
-
-Backspace	- 2u	(2u PCB stabilizer)
+| Key | Size | Stabilizer |
+|-----|------|------------|
+|Space| 6.25u| 6.25u PCB  |
+|L-Shift| 2.25u | 2u PCB |
+|R-Shift| 2.75u | 2u PCB |
+|Enter | 2.25u | 2u PCB |
+|Backspace | 2u | 2u PCB |
 
 # BOM
 | Qty | Item | Notes | Cost (£) | USD ($) | Link |
