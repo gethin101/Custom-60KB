@@ -12,6 +12,7 @@ Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/
 | 1 | Raspberry Pi Pico | WH | £5.40 | $7.28 | [PiHut](https://thepihut.com/products/raspberry-pi-pico-2?variant=54063366701441) |
 
 |--------|---|
+|--------|---|
 | Total: | £ |
 
 
