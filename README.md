@@ -52,7 +52,6 @@ My spacebar, left shift, right shift, enter and backspace all need MX stabilizer
 | ENC_B | GP17 | Rot B |
 | ENC_SW | GP18 | Switch |
 | GND | GND | Ground |
-| COL6 | GP13 | Matrix |
 | +3V3 | 3V3 | Pico Pin |
 | GND | GND | Common |
 | Backspace | GP9 | Matrix |
