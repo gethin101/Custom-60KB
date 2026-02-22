@@ -5,6 +5,8 @@ My keyboard is a 60% keyboard with 60 keys and a rotary encoder used for volume 
 
 Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/#/gists/8c5516ec0065e4f4e203846337e67ee0) (the ENC placeholder bottom right is where the rotary encoder goes)
 
+My spacebar, left shift, right shift, backspace and enter all need MX stabilizers as they are all above 2u.
+
 # BOM
 | Qty | Item | Notes | Cost (£) | USD ($) | Link |
 |------|-----|-------|----------|---------|------|
