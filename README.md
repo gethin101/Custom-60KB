@@ -54,5 +54,3 @@ My spacebar, left shift, right shift, enter and backspace all need MX stabilizer
 | GND | GND | Ground |
 | +3V3 | 3V3 | Pico Pin |
 | GND | GND | Common |
-| Backspace | GP9 | Matrix |
-| Enter | GP10 | Matrix |
