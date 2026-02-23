@@ -1,19 +1,19 @@
 # About
-This is the repo for my custom 60% mechanical keyboard powered by a Raspberry pi pico and KMK firmware I designed and built during Hackclub's [Blueprint program](https://blueprint.hackclub.com/home)
+This is the repo for my custom 75% mechanical keyboard with macro keys powered by a Raspberry pi pico and KMK firmware I designed and built during Hackclub's [Blueprint program](https://blueprint.hackclub.com/home)
 # Keys
-My keyboard is a 60% keyboard with 60 keys and a rotary encoder used for volume and brightness control.
+My keyboard is a 75% keyboard with 85 normal keys and 8 custom macro keys so a total of 93 keys.
 
-Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/#/gists/8c5516ec0065e4f4e203846337e67ee0) (the ENC placeholder bottom right is where the rotary encoder goes)
+Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/#/gists/a3df558aee879b924d336356534e8c5d) 
 
-My spacebar, left shift, right shift, enter and backspace all need MX stabilizers that I will solder onto the PCB as they are all above 2u.
+My spacebar, left shift, right shift, enter and backspace all need MX stabilizers as they are above 2u and these will be plate-mounted.
 
 | Key | Size | Stabilizer |
 |-----|------|------------|
-|Space| 6.25u| 6.25u PCB  |
-|L-Shift| 2.25u | 2u PCB |
-|R-Shift| 2.75u | 2u PCB |
-|Enter | 2.25u | 2u PCB |
-|Backspace | 2u | 2u PCB |
+|Space| 6.25u| 6.25u plate-mount |
+|L-Shift| 2.25u | 2u plate-mount |
+|R-Shift| 2.75u | 2u plate-mount |
+|Enter | 2.25u | 2u plate-mount |
+|Backspace | 2u | 2u plate-mount |
 
 
 
@@ -39,21 +39,7 @@ My spacebar, left shift, right shift, enter and backspace all need MX stabilizer
 
 |  Net | GPIO | Notes |
 |------|------|-------|
-| ROW0 | GP2| Matrix  |
-| ROW1 | GP3 | Matrix |
-| ROW2 | GP4 | Matrix |
-| ROW3 | GP5 | Matrix |
-| ROW4 | GP6 | Matrix |
-| COL0 | GP7 | Matrix  |
-| COL1 | GP8 | Matrix |
-| COL2 | GP9 | Matrix |
-| COL3 | GP10 | Matrix |
-| COL4 | GP11 | Matrix |
-| COL5 | GP12 | Matrix |
-| COL6 | GP13 | Matrix |
-| ENC_A | GP16 | Rot A |
-| ENC_B | GP17 | Rot B |
-| ENC_SW | GP18 | Switch |
-| GND | GND | Ground |
-| +3V3 | 3V3 | Pico Pin |
-| GND | GND | Common |
+| ROW0 | GPIO | Matrix  |
+| COL0 | GPIO | Matrix  |
+
+
