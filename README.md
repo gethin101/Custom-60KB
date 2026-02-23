@@ -1,5 +1,5 @@
 # About
-This is the repo for my custom 75% mechanical keyboard with macro keys powered by a Raspberry pi pico and KMK firmware I designed and built during Hackclub's [Blueprint program](https://blueprint.hackclub.com/home)
+This is the repo for my custom 75% mechanical keyboard with macro keys powered by a Raspberry pi pico and KMK firmware I designed and built during Hackclub's Blueprint program - [project link](https://blueprint.hackclub.com/projects/12386)
 # Keys
 My keyboard is a 75% keyboard with 85 normal keys and 8 custom macro keys so a total of 93 keys.
 
