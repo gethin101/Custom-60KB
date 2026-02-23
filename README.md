@@ -30,7 +30,6 @@ My spacebar, left shift, right shift, enter and backspace all need MX stabilizer
 | Key | Size | Stabilizer |
 |-----|------|------------|
 |Space| 6.25u| 6.25u plate-mount |
-|L-Shift| 2.25u | 2u plate-mount |
 |R-Shift| 2.75u | 2u plate-mount |
 |Enter | 2.25u | 2u plate-mount |
 |Backspace | 2u | 2u plate-mount |
