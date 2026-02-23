@@ -5,16 +5,6 @@ My keyboard is a 75% keyboard with 85 normal keys and 8 custom macro keys so a t
 
 Here is the link to my [keyboard layout](https://www.keyboard-layout-editor.com/#/gists/a3df558aee879b924d336356534e8c5d) 
 
-My spacebar, left shift, right shift, enter and backspace all need MX stabilizers as they are above 2u and these will be plate-mounted.
-
-| Key | Size | Stabilizer |
-|-----|------|------------|
-|Space| 6.25u| 6.25u plate-mount |
-|L-Shift| 2.25u | 2u plate-mount |
-|R-Shift| 2.75u | 2u plate-mount |
-|Enter | 2.25u | 2u plate-mount |
-|Backspace | 2u | 2u plate-mount |
-
 
 
 # BOM
@@ -34,6 +24,16 @@ My spacebar, left shift, right shift, enter and backspace all need MX stabilizer
 
 
 | 60 | MX-Style key switches | AliExpress | £ | $ | [AE]() |
+
+My spacebar, left shift, right shift, enter and backspace all need MX stabilizers as they are above 2u and these will be plate-mounted.
+
+| Key | Size | Stabilizer |
+|-----|------|------------|
+|Space| 6.25u| 6.25u plate-mount |
+|L-Shift| 2.25u | 2u plate-mount |
+|R-Shift| 2.75u | 2u plate-mount |
+|Enter | 2.25u | 2u plate-mount |
+|Backspace | 2u | 2u plate-mount |
 
 
 # Full Wiring Table
